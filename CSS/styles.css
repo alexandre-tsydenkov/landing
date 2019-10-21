@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Hepta+Slab|Mansalva|Roboto|Roboto+Condensed&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{ margin : 0px; }
+h1{ font-family: 'Mansalva', cursive;  width : 40px; }
+
+p {font-family: 'Roboto', sans-serif;}
+
+a { text-decoration: none; }
+
+
+
+
+
+
+
+
+
+
